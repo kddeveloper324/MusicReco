@@ -18,3 +18,6 @@ This project is a content-based music recommendation engine designed to suggest 
 * **Python**
 * **Streamlit** (Frontend)
 * **Spotify API** (For album art and playback links)
+
+### Demo Video link
+https://drive.google.com/file/d/1l8qEbzCS6yftUaFAJUa2JnMGv5Zph2hZ/view?usp=sharing
